@@ -26,7 +26,7 @@ Hey there! I'm a 9th grade student passionate about web development from Ukraine
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,rust,tauri,python,nodejs,npm,express,docker,git,github,mongodb&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,rust,tauri,python,nodejs,npm,express,docker,git,github,mongodb&theme=dark&perline=6" />
 </p>
 
 <h2 align="center">⭐️ Favorite Projects</h2>
