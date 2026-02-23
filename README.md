@@ -19,8 +19,8 @@ Hey there! I'm a 9th grade student passionate about web development from Ukraine
   <li>📚 Curious, ambitious, and ready for challenges</li>
 </ul>
 
-<a href='https://github.com/Cat333t'>
-  <img src="https://raw.githubusercontent.com/Cat333t/Cat333t/output/snake.svg" alt="Snake animation" />
+<a href='https://github.com/kyst14'>
+  <img src="https://raw.githubusercontent.com/kyst14/kyst14/output/snake.svg" alt="Snake animation" />
 </a>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -31,25 +31,25 @@ Hey there! I'm a 9th grade student passionate about web development from Ukraine
 
 <h2 align="center">⭐️ Favorite Projects</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;" align="center">
-  <a href='https://github.com/Cat333t/visor'>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cat333t&repo=visor&show_owner=false&theme=github_dark&description_lines_count=2" alt="Visor repository" />
+  <a href='https://github.com/kyst14/visor'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyst14&repo=visor&show_owner=false&theme=github_dark&description_lines_count=2" alt="Visor repository" />
   </a>
 
-  <a href='https://github.com/Cat333t/minitalk'>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cat333t&repo=minitalk&show_owner=false&theme=github_dark" alt="Minitalk repository" />
+  <a href='https://github.com/kyst14/minitalk'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyst14&repo=minitalk&show_owner=false&theme=github_dark" alt="Minitalk repository" />
   </a>
 
-  <a href='https://github.com/Cat333t/mr.cactus'>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cat333t&repo=mr.cactus&show_owner=false&theme=github_dark" alt="Mr.Cactus repository" />
+  <a href='https://github.com/kyst14/mr.cactus'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyst14&repo=mr.cactus&show_owner=false&theme=github_dark" alt="Mr.Cactus repository" />
   </a>
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href='https://github.com/Cat333t'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Cat333t&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&icon_color=ff69b4" height="150" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cat333t&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=1" height="150" alt="Top languages" />
+  <a href='https://github.com/kyst14'>
+    <img src="https://github-readme-stats.vercel.app/api?username=kyst14&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&icon_color=ff69b4" height="150" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyst14&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=1" height="150" alt="Top languages" />
   </a>
 </div>
 
