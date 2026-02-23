@@ -29,7 +29,7 @@ Hey there! I'm a 9th grade student passionate about web development from Ukraine
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,rust,tauri,python,nodejs,npm,express,docker,git,github,mongodb&theme=dark&perline=6" />
 </p>
 
-<h2 align="center">⭐️ Favorite Projects</h2>
+<!-- <h2 align="center">⭐️ Favorite Projects</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;" align="center">
   <a href='https://github.com/kyst14/visor'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyst14&repo=visor&show_owner=false&theme=github_dark&description_lines_count=2" alt="Visor repository" />
@@ -42,15 +42,13 @@ Hey there! I'm a 9th grade student passionate about web development from Ukraine
   <a href='https://github.com/kyst14/mr.cactus'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyst14&repo=mr.cactus&show_owner=false&theme=github_dark" alt="Mr.Cactus repository" />
   </a>
-</div>
+</div> -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <a href='https://github.com/kyst14'>
     <img src="https://github-readme-stats.vercel.app/api?username=kyst14&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&icon_color=ff69b4" height="150" alt="GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyst14&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=1" height="150" alt="Top languages" />
   </a>
-</div>
-
-
+</div> -->
