@@ -87,8 +87,8 @@ Here are some of the things I’ve built or am currently working on:
 Feel free to reach out if you want to collaborate on a project, talk about tech, or just say hi!
 
 - 🐙 **GitHub:** [kyst14](https://github.com/kyst14)
-- ✈️ **Telegram:** [@Cat333t](https://t.me/Cat333t)
-- 📧 **Email:** [284.1izm@gmail.com](mailto:284.1izm@gmail.com)
+- ✈️ **Telegram:** [@kystun](https://t.me/kystun)
+- 📧 **Email:** [thekyst@proton.me](mailto:thekyst@proton.me) (or [284.1izm@gmail.com](mailto:284.1izm@gmail.com))
 
 ---
 
